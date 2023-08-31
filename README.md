@@ -1,5 +1,6 @@
 ![](Python_sleep_coverphoto.PNG)
 # Predicting the Presence of Sleep Disorders using Python
+Using sleep, lifestyle, and health data to predict the presence of sleep disorders with Python.
 
 ## Project Overview
 This project uses sleep, lifestyle, and health data combined with supervised machine-learning techniques to predict the presence of sleep disorders. The dataset contains health data, such as heart rate and blood pressure, as well as lifestyle data, such as activity level and BMI category. It also contains information about sleep patterns, such as sleep duration, quality of sleep, and whether or not a sleep disorder is present.
