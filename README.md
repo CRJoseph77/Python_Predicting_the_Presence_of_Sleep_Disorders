@@ -18,7 +18,7 @@ Data manipulation: pandas, numpy.
 
 Data visualization: matplotlib, seaborn.
 
-Machine learning: scikit learn, xgboost.
+Machine learning: scikit-learn, xgboost.
 
 ## Data
 Source data: The data used for this project was a dataset containing sleep, lifestyle, and health data downloaded from Kaggle: https://www.kaggle.com/datasets/uom190346a/sleep-health-and-lifestyle-dataset.
