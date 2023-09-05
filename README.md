@@ -37,7 +37,7 @@ Preprocessing: No preprocessing was performed prior to uploading the dataset to 
 ## Results and Evaluation
 Data was successfully cleaned and structured, and the three models were successfully created and evaluated. The model with the best performance was the logistic regression model, with an F1 score of 0.82. The tuned random forest model did not perform as well as the logistic regression model, with an F1 score of 0.77. The gradient boosting model performed the worst, with an F1 score of 0.69. The most predictive features that were identified as being predictive by all three models were blood pressure and heart rate. This suggests that examining an individual's health metrics can be useful in determining and predicting the presence of a sleep disorder. 
 
-It should be noted that there are a few limitations to these conclusions, namely the limited size of the dataset used to train these models. 
+It should be noted that there are a few limitations to these conclusions, namely the limited size of the dataset used to train the models. 
 
 ## Future Work
 The primary goal of future work would be to use a dataset that is more comprehensive and has more data. This would ensure that the models would be generalizable and not overfit the model to the available data. Other factors that influence sleep and health could be explored, such as diet or sleep routine. The relationship between blood pressure, heart rate, and sleep could be further examined to improve outcomes for individuals with sleep disorders and to improve the ability to predict and treat those disorders. 
