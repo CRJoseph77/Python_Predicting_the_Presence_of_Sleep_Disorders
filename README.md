@@ -25,7 +25,7 @@ Source data: The data used for this project was a dataset containing sleep, life
 
 Preprocessing: No preprocessing was performed prior to uploading the dataset to the Jupyter Notebook. 
 
-## Code Structure
+## [Code Structure](predicting_sleep_disorders.ipynb)
 1. Importing packages and data - Relevant packages and the dataset were loaded into the Jupyter Notebook.
 
 2. Exploratory data analysis - The general structure and format of the data were explored, as well as descriptive statistics. Inconsistencies and issues with the data were examined. Visualizations were created to inspect the distribution of the data.
